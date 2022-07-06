@@ -1,0 +1,27 @@
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+margin-top: 10px;
+
+}
+
+.area {
+    width: 100%;
+    max-width: 350px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: darkcyan;
+    border-radius: 10px;
+    
+}
+
+button {
+    border: none;
+    padding: 5px 40px 5px 40px;
+    border-radius: 8px;
+    color: azure;
+    background-color: darkgrey;
+}
